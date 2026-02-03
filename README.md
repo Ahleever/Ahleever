@@ -26,9 +26,9 @@ Automation or testing libraries
 
 📫 How to Reach Me
 
-Email: olivesubs1124@gmail.com
+Email: monterooliver97@gmail.com
 
-LinkedIn: linkedin.com/in/oliver-montero-1a9a9b17a
+LinkedIn: https://www.linkedin.com/in/oliver-montero-1a9a9b17a
 <!---
 Ahleever/Ahleever is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
